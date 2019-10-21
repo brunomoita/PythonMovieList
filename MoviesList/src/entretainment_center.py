@@ -35,4 +35,6 @@ hunger_games = media.Movie("Hunger Games",
                            "https://www.youtube.com/watch?v=mfmrPu43DF8")
 
 movies = [toy_story, avatar, school_of_Rock, ratatuille, fight_club, hunger_games]
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+#print(media.Movie.valid_ratings)
+print(media.Movie.__doc__)
